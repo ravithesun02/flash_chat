@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1082442687500",
+    "firebase_url": "https://flash-chat-d5571.firebaseio.com",
+    "project_id": "flash-chat-d5571",
+    "storage_bucket": "flash-chat-d5571.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082442687500:android:61493f2d56057c8efc7a29",
+        "android_client_info": {
+          "package_name": "com.owldraw.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082442687500-1is7njjdu7ng70gj0saj93tvqvvj7o8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChKcrmpFKYAT4PKchGQ5xIls7qM_CW5uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082442687500-1is7njjdu7ng70gj0saj93tvqvvj7o8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
